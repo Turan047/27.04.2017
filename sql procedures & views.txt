@@ -1,0 +1,10 @@
+1) Procedure ile view arasinda ferq ondadir ki view-nu yaliz bir meqsed ucun istifade
+ede bilerik, her defe view-dan istifade eleyib sql query-ni tekraren yazmaga ehtiyyac 
+galmir, procedure da eyni xususiyyete malik olsa da ferqi ondadir ki procedure-da ferqli
+value-lari istifade etmekler ferqli query-ler yazmish oluruq ve netice de procedure bize
+tekrar yazmadan ferqli query-lerin neticesin oyrenmeye imkan yaradir
+
+2)Procedure SQL-in programlashdirma da olan function variantidir,bu ise o demekdir ki
+procedure project-in qurulmasinda muhum rol oynayir ve ishi olduqca asanlashdirir, 
+eyni query-ni bir nece defe yazmaga ehtiyyac qalmir, ve her defe programlashdirma da 
+oldugu kimi procedura refer eleyib istediyimiz neticeni elde ede billirik.
